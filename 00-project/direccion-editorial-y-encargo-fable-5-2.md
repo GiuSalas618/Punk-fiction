@@ -118,3 +118,7 @@ Empieza por una propuesta breve de arquitectura narrativa: protagonistas, deseos
 Prioriza escenas con acciones y decisiones. Permite humor, deseo, contradicción y afecto. Haz que los personajes tengan vidas y problemas más allá de las ideas que representan. Evita el tono de sermón, las explicaciones repetidas, el exceso de aforismos y los párrafos breves usados mecánicamente para simular intensidad.
 
 Mantén un registro de continuidad separado del manuscrito. Al terminar cada entrega, registra hechos nuevos propuestos y decisiones pendientes sin convertirlas silenciosamente en canon. Trabaja por etapas revisables; no intentes resolver toda la novela en una sola respuesta.
+
+## Encargo vigente: desarrollo de escenas del autor
+
+El autor ha sustituido el taller de ejercicios por [diez intervenciones alternadas y una especial para hilvanar](https://github.com/GiuSalas618/Punk-fiction/issues/2). Trabajar las escenas concretas de llegada del empresario y vida de ambos líderes; cocinera y pasaje aprobado; escalada del narco hasta su pregunta mientras escucha El Todopoderoso; niño, perro, comida y empresario. La guía depurada está en [Guía de voz](guia-de-voz-escenas-del-autor.md). No conservar ni reintroducir ejercicios ajenos a las escenas del autor. El nuevo encargo tiene prioridad sobre las propuestas de siguiente entrega anteriores.
