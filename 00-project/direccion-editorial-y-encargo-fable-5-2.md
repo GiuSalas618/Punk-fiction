@@ -92,7 +92,7 @@ La elección y aplicación de estos recursos es una recomendación editorial pro
 
 ## Prioridades para buscar alcance comercial
 
-1. Abrir con una escena que una asombro visual, un deseo concreto y una fricción humana. Una opción: el ascenso al Cristo interrumpido por la llegada de un visitante; no queda establecido como inicio definitivo.
+1. Por instrucción posterior del autor, abrir en el Río actual: ambiente festivo y ligero, calor, aroma salado, dinero, vergüenza amorosa y preocupaciones cotidianas. Introducir paulatinamente las noticias. La anterior sugerencia de abrir con el ascenso al Cristo queda desplazada. Alternar con el futuro y reservar la gran catástrofe y la confluencia del cráneo para casi el final.
 2. Dar pronto a los protagonistas algo que desean, una relación que importa y un riesgo comprensible.
 3. Asegurar una cadena causal: las decisiones cambian las posibilidades y tienen costes.
 4. Hacer que ambos grupos aprendan y aporten a lo largo del libro. Evitar que uno exista únicamente para ser salvado o instruido.
@@ -100,6 +100,10 @@ La elección y aplicación de estos recursos es una recomendación editorial pro
 6. No dar por cerrada la muerte de Nara ni utilizarla solo para provocar emoción. El conflicto de Helena y Nara es una propuesta que debe compararse con el requisito de aprendizaje mutuo.
 7. Trabajar una novela completa con resolución propia; la expansión a otros lugares puede quedar como posibilidad.
 8. Revisar con lectores adecuados: registrar dónde se pierde la atención, qué desean saber, a quién les importa seguir y qué escenas recuerdan. Usar sus respuestas para revisar, sin atribuir a una pequeña muestra valor de predicción de ventas.
+
+## Nueva arquitectura del autor: apertura cotidiana y confluencia final
+
+La instrucción más reciente se registra en [Arquitectura: Río, búnker y confluencia](../03-outline/arquitectura-rio-bunker-confluencia.md). Tiene prioridad sobre las aperturas anteriores. Incluye la línea propuesta del empresario de Silicon Valley que compra montañas en Perú, la familia local y el perro; una alternancia flexible de uno o dos capítulos del presente con uno futuro; la búsqueda en templos y el alga; y la unión emocional de los tiempos durante la gran catástrofe cerca del final. El final de la novela Tieta es una referencia del efecto emocional buscado por el autor. El documento separa instrucciones, posibilidades y propuestas de los asistentes.
 
 ## Encargo listo para usar
 
