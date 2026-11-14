@@ -64,6 +64,30 @@ La sugerencia anterior del asistente sobre un apartamento heredado como propieda
 - Memoria y expresión: explorar canciones, sueños e imágenes como formas de transmitir experiencia.
 - Tensiones narrativas: pérdida de identidad propia, dificultad para retirarse del grupo, idealización de la unidad, evasión de responsabilidades o manipulación del sentimiento colectivo. La fluidez no obliga a una sociedad perfecta ni uniforme.
 
+## Memoria de los mayores y visitantes — posibilidades propuestas por el autor
+
+- Los habitantes más viejos pueden recordar el pasado y reflexionar sobre los cambios. Algunos sienten tristeza; otros, ilusión. Mantener la diversidad de experiencias entre los mayores.
+- Puede llegar un visitante de las montañas del Tíbet o del Perú, donde el autor sitúa a los últimos seres humanos. Está pendiente precisar cómo se nombran estos humanos terrestres y los descendientes adaptados al mar.
+- También puede llegar alguien de Nueva York, cuya población atravesó la transición oceánica pero evolucionó mental y socialmente de otras formas.
+- Las procedencias son posibilidades abiertas: no se ha decidido entre ellas ni se ha confirmado que deban aparecer todas.
+
+### Continuidad y aspectos por definir
+
+- Distinguir los recuerdos vividos por un anciano de los relatos heredados sobre épocas anteriores. La premisa de mil años de transformación no establece por sí sola que una persona haya vivido todo ese período.
+- Definir el pasado concreto que recuerda cada personaje y las costumbres que han cambiado durante su vida.
+- No asumir una correspondencia automática entre vejez y resistencia al cambio.
+- Precisar motivación del viaje, rutas, tecnología y necesidades respiratorias del visitante terrestre antes de escribir su llegada bajo el agua.
+- No trasladar automáticamente las culturas actuales del Tíbet, Perú o Nueva York a estas sociedades futuras. Construirlas a partir de lo que el autor establezca para esta ficción.
+- Mantener abierta la relación entre las distintas sociedades; la adaptación oceánica compartida no determina una única cultura ni una jerarquía espiritual fija.
+
+### Desarrollos sugeridos por el asistente; no confirmados
+
+- Los mayores permiten mostrar la transformación dentro de una vida; los visitantes permiten contrastar trayectorias de comunidades separadas.
+- Un visitante terrestre podría necesitar confiar su supervivencia a una comunidad que entiende de otro modo la propiedad, la intimidad y el cuidado.
+- Un visitante de Nueva York podría compartir las adaptaciones corporales de los habitantes de Río y, aun así, interpretar de manera distinta sus gestos sociales.
+- Explorar una comunidad neoyorquina que sostenga la cooperación mediante compromisos explícitos y duraderos, como una posibilidad entre muchas. No queda establecida como canon.
+- Una misma escena podría provocar nostalgia en un mayor y esperanza en otro; sus respuestas deben surgir de historias personales concretas.
+
 ## Decisiones pendientes
 
 - Cómo se reconocen el descanso, la intimidad y la necesidad de estar solo.
