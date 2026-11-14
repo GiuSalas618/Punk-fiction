@@ -12,6 +12,25 @@ Documento de trabajo de Punk Fiction. Basado exclusivamente en las ideas expresa
 - Los arquetipos piscianos y neptunianos deben orientar esa transformación mental y social.
 - La relación con la propiedad es más fluida, grupal y universal, con menor centralidad de la posesión individual. El autor contrapone esta orientación al modelo de propiedad que describe como capricorniano.
 
+## Mar de Janeiro do Cristo — nombre e historia establecidos por el autor
+
+- Cuando el mar comenzó a inundar Río de Janeiro, los habitantes cariocas bromeaban diciendo que ahora vivían en «Mar de Janeiro».
+- Décadas después, la ciudad oficializó el nombre «Mar de Janeiro do Cristo».
+- En la etapa descrita por el autor, el Cristo es lo único que todavía sobresale del agua en la ciudad. No extender esta afirmación a todo el planeta: siguen abiertas las comunidades de montaña mencionadas anteriormente.
+- Al atardecer, los habitantes emergen para contemplar el Cristo.
+- Conservar el origen humorístico y cotidiano del nombre, su posterior oficialización y la costumbre compartida del atardecer. No hay fechas exactas establecidas.
+- El autor no ha definido todavía una doctrina religiosa común ni el significado que cada habitante atribuye a esa contemplación.
+
+### Continuidad visual y narrativa
+
+Las imágenes anteriores que muestran montañas e islas alrededor de Río sobre la superficie no fijan la geografía de esta etapa. Las futuras escenas de Mar de Janeiro do Cristo en el período descrito deben mostrar al Cristo como único elemento urbano o terrestre que permanece emergido, además de los habitantes que suben a contemplarlo. No fijar todavía cuánto de la estatua sobresale ni su estado de conservación.
+
+### Posibilidades literarias del asistente; no confirmadas
+
+- La historia del nombre puede transmitirse oralmente y conservar algo del humor de quienes vivieron la inundación inicial.
+- La contemplación del atardecer puede reunir a personas con diferentes grados de adaptación y diferentes sentimientos ante los cambios.
+- Los brazos abiertos del Cristo pueden adquirir resonancias de acogida y amor universal, manteniendo abierta la interpretación de cada personaje.
+
 ## Amor universal y sentido del ser — orientación confirmada
 
 La especie comienza a comprender y experimentar el amor universal como un sentimiento de unidad entre todos los seres. Esta comprensión se desarrolla gradualmente junto con su adaptación al mundo oceánico.
