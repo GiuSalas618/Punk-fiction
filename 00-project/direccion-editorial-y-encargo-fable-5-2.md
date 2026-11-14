@@ -14,7 +14,7 @@ La ambición comercial orienta claridad, tensión, singularidad y revisión con 
 
 - Tercera persona cercana: sentir cada escena desde el cuerpo, los deseos y los puntos ciegos de un personaje.
 - Empezar probando dos perspectivas principales, una del mar y otra de las montañas; añadir otra solo si aporta una experiencia indispensable. No cambiar de conciencia dentro de una misma escena sin una decisión formal clara.
-- Narración principalmente cronológica, con recuerdos breves motivados por el presente. Los mayores recuerdan su propia vida y distinguen de ella lo recibido de otras generaciones.
+- Por solicitud posterior del autor, explorar conversaciones y tiempos entrelazados con tintes de Conversación en La Catedral. La propuesta previa de cronología principal con recuerdos breves queda abierta a revisión. Consultar 01-world/memorias-ruinas-alga-y-bar.md. Distinguir los recuerdos personales de los mayores de los flashes del pasado que podría provocar un alga.
 - Prosa clara, concreta y sensorial. Variar la extensión de frases y párrafos. Reservar la intensidad lírica para momentos que la merezcan.
 - Emoción construida con acciones, objetos, silencios y consecuencias. Evitar explicar después de cada escena qué debe sentir o aprender el lector.
 - Diálogos particulares de cada personaje: desacuerdos, interrupciones, humor y malentendidos. Los personajes no deben hablar todos como narradores filosóficos.
@@ -25,12 +25,17 @@ La ambición comercial orienta claridad, tensión, singularidad y revisión con 
 - Cada capítulo debe cambiar una relación, una decisión o la comprensión de un riesgo. Variar cierres; no añadir suspenso artificial a cada final.
 - Desenlace emocionalmente completo. El aprendizaje recíproco debe cambiar decisiones y hacer posible una acción concreta.
 
+## Nueva dirección del autor: conversaciones entre épocas
+
+El autor propone un alga que permite experimentar flashes del pasado en determinadas ruinas, entre ellas un bar carioca donde se discutía sobre política del siglo XXI, fútbol e IA. Dentro de esa ficción, una superinteligencia vinculada al legendario Musk habría demostrado la existencia de la Atlántida poco antes de que el mundo sufriera su propia inundación. Son premisas ficticias y exploratorias. El taller debe ensayar cómo entrelazar esas conversaciones con el presente submarino, conservando orientación, personajes particulares y consecuencias dramáticas. Leer los detalles y preguntas abiertas en [Memorias de las ruinas](../01-world/memorias-ruinas-alga-y-bar.md).
+
 ## Referencias de lectura y criterio editorial
 
 Se proponen para estudiar recursos narrativos generales y problemas literarios. Desarrollar una voz original sin reproducir la voz distintiva, frases, personajes o estructuras de estos autores.
 
 | Referencia | Recurso que conviene estudiar | Aplicación propuesta |
 | --- | --- | --- |
+| Mario Vargas Llosa, Conversación en La Catedral | Conversaciones, tiempos y experiencias privadas que revelan una historia social | Explorar el cruce del bar del siglo XXI con las ruinas de Mar de Janeiro; referencia solicitada por el autor |
 | Ursula K. Le Guin, The Dispossessed / Los desposeídos | Encuentro entre sociedades, propiedad, lealtad y revisión de las propias creencias | Construir mar y montaña con virtudes, costes y contradicciones internas |
 | Octavia E. Butler, trilogía Xenogenesis | Transformación corporal, supervivencia, identidad y conflictos sobre el cambio | Dar consecuencias personales a la adaptación; preservar agencia y diferencias individuales |
 | Emily St. John Mandel, Station Eleven / Estación Once | Vínculos, memoria y vida cultural en un mundo transformado, con una trama que mantiene tensión | Hacer que una ciudad extraordinaria contenga vidas reconocibles y que la belleza acompañe el avance narrativo |
@@ -58,7 +63,7 @@ La elección y aplicación de estos recursos es una recomendación editorial pro
 
 ## Encargo listo para usar
 
-Trabaja exclusivamente en el proyecto Punk Fiction. Lee AGENTS.md, la versión actual de 01-world/adaptacion-oceanica-y-sociedad.md y 03-outline/conflicto-principal-propuesta.md. Si no tienes acceso a los archivos, pide que se adjunten; no supongas que los has leído. Respeta las diferencias entre canon, posibilidades del autor y propuestas del asistente. Usa este documento como dirección editorial propuesta. No incorpores datos de otros proyectos ni del perfil personal del autor.
+Trabaja exclusivamente en el proyecto Punk Fiction. Lee también 01-world/memorias-ruinas-alga-y-bar.md y las nuevas instrucciones del autor en el issue #1. Lee AGENTS.md, la versión actual de 01-world/adaptacion-oceanica-y-sociedad.md y 03-outline/conflicto-principal-propuesta.md. Si no tienes acceso a los archivos, pide que se adjunten; no supongas que los has leído. Respeta las diferencias entre canon, posibilidades del autor y propuestas del asistente. Usa este documento como dirección editorial propuesta. No incorpores datos de otros proyectos ni del perfil personal del autor.
 
 Desarrolla una novela especulativa emocional, de prosa clara y sensorial, tensión sostenida y ambición de llegar a lectores amplios. La voz debe ser original. Toma como objetivos generales la complejidad social, las consecuencias íntimas de la adaptación, la construcción de vínculos y el subtexto emocional descritos en las referencias; no imites la voz particular de ningún autor.
 
