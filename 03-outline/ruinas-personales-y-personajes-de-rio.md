@@ -11,7 +11,7 @@ Quiere acentuar la asimetría informativa del empresario: sabe lo que va a ocurr
 
 El autor aprueba la escalada que transforma noticias en consecuencias cotidianas y pide a Fable afinarla. También aprueba la dirección del perro, el empresario y el niño y pide desarrollarla entre ambos asistentes; no convierte todas las alternativas anteriores en hechos confirmados.
 
-Pregunta por la búsqueda interior del ser futuro: por qué va a las ruinas, si teme o desea encontrar sus propias ruinas interiores y si busca ancestralidad. Son preguntas abiertas.
+La búsqueda interior queda precisada en la instrucción posterior del autor: individualidad y libertad dentro de la pertenencia. Su pregunta central es «¿Puedo sentirme parte de todos y seguir siendo yo?». La ancestralidad puede acompañarla; un conflicto amoroso será parte del drama, sin sustituir ese problema más profundo.
 
 Requiere mayor dramatismo y sensibilidad para la confluencia final, que identifica como la parte más emocional del libro. Quiere afinar con Fable la idea de que la vida cotidiana del comienzo merece ser llorada.
 
@@ -24,11 +24,11 @@ Requiere mayor dramatismo y sensibilidad para la confluencia final, que identifi
 - Él la perdió por beber tanto, por traicionarla con otras mujeres y por hacerla quedar en ridículo frente a los demás.
 - Con esto, reloj y enamorada dejan de ser alternativas para la nostalgia del hombre del bar: el reloj la contiene a ella.
 
-### La búsqueda de la mujer del futuro — preguntas abiertas del autor
+### La búsqueda de la mujer del futuro — preguntas anteriores del autor
 
 - El autor dice que todavía no se sabe cuál es su problema.
 - Lo formula como preguntas: algún vacío la lleva a estar sola entre aquellas ruinas; ¿busca sus propias ruinas interiores?, ¿por qué?, ¿algo que le dé raíz?, ¿solidez?, ¿aquellas raíces que es imposible tener en el mar?
-- Son preguntas, no decisiones. No fijar la respuesta sin el autor.
+- Estas preguntas preceden a la definición de individualidad y libertad recibida después en la sesión de ChatGPT y registrada abajo. Conservarlas como antecedentes, no como bloqueo a la nueva dirección.
 
 ## Cuatro personajes propuestos directamente por el autor
 
@@ -47,10 +47,10 @@ Revelarlas mediante consecuencias y hábitos: alguien deja de llamar, alguien mi
 
 La pobreza, el trabajo sexual y la infancia no son por sí mismos una ruina moral. Tampoco todos necesitan haberse destruido antes del desastre: algunos pueden estar siendo dañados por otros o conservando algo valioso a gran coste. La catástrofe no actúa como castigo a pecadores.
 
-- **Traficante:** posible miedo a dejar de ser temido. Su escalada puede destruir incluso la posibilidad de reconocer un afecto que no dependa de él. Mostrar a quienes padecen su poder y cómo cambia la vida alrededor, sin convertir cada aparición en una competición de atrocidades. No ofrecerle una absolución mediante una ternura aislada.
+- **Traficante:** el autor considera insuficiente la propuesta de preguntarse quién lo ama y quién le teme. Pide representar gráficamente su crueldad y una pérdida de humanidad mucho más extrema. Desarrollar una pregunta interior a la altura de esa pérdida; aún no está elegida. Propuesta nueva de ChatGPT: «¿Queda algo que todavía sea incapaz de hacer?», como búsqueda de un límite que ha dejado de sentir, no como arrepentimiento confirmado. La violencia puede mostrarse de forma explícita y concreta, con víctimas que existan como personas y consecuencias. No asumir que cualquier afecto aislado lo redime.
 - **Niño:** posible fe en que existe una receta del éxito que cualquier adulto rico conoce. Pregunta al heredero cómo hizo su fortuna; recibe consejos sobre sacrificio. La escena puede ser cómica antes de que el lector advierta su crueldad. Su recorrido no tiene que terminar en corrupción o muerte.
 - **Heredero:** posible uso de la generosidad pública para confirmar la imagen que tiene de sí mismo y exigir gratitud privada. Darle auténticos actos generosos además de crueldad: la contradicción debe existir, no ser una fachada idéntica en todas las escenas.
-- **Cocinera:** posible deseo de abrir un lugar propio, o de ganar tiempo para una vida que siempre pospone. Escoger más adelante. Mostrar placer, pericia, amistades, límites y decisiones en ambos trabajos. Su conflicto concreto puede ser el desgaste de sentirse disponible para todos; no establecerlo solo por ejercer prostitución.
+- **Cocinera:** el autor precisa que el desgaste más profundo nace de la repetición: los clientes cuentan las mismas historias y mentiras, piden las mismas fantasías y posiciones y la defraudan de las mismas maneras. El esfuerzo y los abusos sexuales no agotan su conflicto. Propuesta de ChatGPT: esa experiencia le deteriora la capacidad de esperar algo singular de un encuentro, incluso fuera del trabajo. Su percepción es la de este personaje, no una verdad objetiva sobre todos los hombres. Darle deseos y habilidades propios; abrir un restaurante sigue siendo solo una posibilidad anterior.
 
 Cruces posibles: el niño limpia el coche del heredero; el restaurante conecta clientes, cocinera y conversaciones; el bar conecta empleados y vecinos. No hacer que todos compartan parentesco, secreto o causa de muerte.
 
@@ -64,21 +64,26 @@ La comunidad conoce su terreno y él lo necesita. Su acceso desigual al peligro 
 
 No presentar esta escena inventada como descripción documental del habla o creencias de comunidades andinas reales.
 
-### Búsqueda del ser futuro: propuesta preferida
+### Búsqueda del ser futuro — nueva dirección del autor
 
-Alguien amado decide marcharse. La persona protagonista comprende la libertad y la pertenencia compartida, pero siente el deseo de retener a esa persona y se avergüenza de ese impulso. Teme que su modo particular de amar sea una forma antigua de posesión.
+Pregunta central exacta: **«¿Puedo sentirme parte de todos y seguir siendo yo?»**
 
-Busca en las ruinas cómo vivían los antiguos sus vínculos: si un amor podía seguir siendo singular dentro de una vida común. La ancestralidad puede acompañar esa pregunta, pero no hace falta probar que un muerto sea su antepasado para que le importe.
+Busca su individualidad, descubrir quién es además de una célula del cardumen. Quiere libertad aunque ame a los demás: no estar con ellos en ciertos momentos, estar solo en cuerpo y unido en corazón. Busca en las ruinas cómo vivían y amaban los antiguos y qué sabiduría les permitía expresar su individualidad y ser aceptados.
 
-El alga ofrece acceso a vidas que ya no pueden abandonarla de la manera habitual: puede volver a una escena. Propuesta de conflicto adicional: la búsqueda empieza a convertirse en refugio y le hace descuidar a quienes todavía pueden responderle. No establecer dependencia biológica ni mecanismo de repetición hasta definir reglas del alga.
+El autor acepta el alga como posible evasión: dedicar cada vez más tiempo a conocer muertos mientras posterga una conversación con alguien vivo. La forma de acceso, frecuencia y reglas de las percepciones siguen abiertas.
 
-En el cráneo descubre a una persona cuyos deseos y errores no cabían en su idea simplificada de los antiguos. La caricia la compromete afectivamente sin darle posesión sobre esa vida.
+Un conflicto amoroso puede ser parte de su drama, pero no su causa principal. La propuesta anterior de ChatGPT —retener a una persona que se marcha— queda desplazada como motor central. También cambia la dirección de la partida: ahora puede ser la persona protagonista quien necesite estar sola o marcharse.
 
-Después debe tomar una decisión en su presente: por ejemplo, acompañar una partida sin impedirla ni fingir que no duele. Integrar esa relación con el conflicto mar/montaña para no añadir una subtrama desconectada. Identidad de quien parte y motivo de la partida abiertos.
+«Célula del cardumen» expresa el conflicto de pertenencia; no establece mente colmena, telepatía o desaparición literal de la personalidad.
 
-Pregunta interior propuesta: «¿Puedo sentirme parte de todos y seguir queriendo que alguien se quede conmigo?»
+#### Desarrollo propuesto por ChatGPT; no confirmado
 
-Alternativa todavía abierta: una búsqueda explícita de ancestralidad. El autor no ha elegido entre ellas ni definido identidad o género definitivo.
+- Una escena de entrada: necesita soledad y alguien amado insiste en acompañarla por cuidado. Puede agradecer el afecto y sentir que pierde el espacio que buscaba. No hacer que toda la comunidad reaccione igual ni presuponer una prohibición de estar sola.
+- Las ruinas le ofrecen vidas con nombre y deseos singulares, pero también soledades destructivas. Su investigación puede desmentir la idealización de los antiguos.
+- La evasión mediante el alga evita tener que decir «hoy quiero estar sola» a una persona viva que podría sentirse herida. El coste dramático necesita una situación concreta por desarrollar.
+- La caricia pone en relación a dos seres separados sin volverlos intercambiables. Esa lectura puede surgir del gesto, sin explicación doctrinal.
+- La decisión posterior podría ser pedir tiempo o partir por un período elegido, sostener una responsabilidad acordada y mantener el vínculo. El amor y la libertad se comprueban en actos, no solo en una revelación.
+- La ancestralidad queda disponible como dimensión secundaria; no convertirla en parentesco obligatorio con el hombre del cráneo.
 
 ### Construir el clímax con sensibilidad
 
@@ -101,9 +106,29 @@ El niño puede tener voluntad, enfado y decisiones distintas de suplicar que le 
 
 - Afinar la progresión de las noticias mediante escenas y consecuencias en estos personajes.
 - Discutir la asimetría informativa y si el empresario avisa, oculta o divulga parcialmente lo que sabe.
-- Criticar la búsqueda interior propuesta para el ser futuro y ofrecer una alternativa concreta.
+- Desarrollar la nueva búsqueda de individualidad y libertad definida por el autor; no volver a poner el miedo a perder una pareja como problema central.
 - Desarrollar el vínculo perro/niño/empresario con cambios observables entre encuentros.
 - Proponer cómo presentar los cuatro personajes respetando la apertura festiva y ligera: la crueldad extrema no tiene por qué ser el primer contacto del lector con Río.
 - Preparar la sensibilidad del clímax desde acciones anteriores, sin repartir redenciones automáticas.
 
 La dirección y los personajes anteriores se conservan como material de taller; la nueva propuesta coral obliga a revisar el número de puntos de vista, pero no fija cuatro protagonistas equivalentes.
+
+## Origen de la fortuna y contraste comunal — nueva propuesta del autor
+
+- El empresario acumuló una fortuna de «algunos billones de dólares» en diez años, entregándose en cuerpo y alma a una empresa basada en una aplicación.
+- La aplicación medía el potencial de ser deseado por el sexo opuesto según las fotografías que el usuario se tomaba durante el día. Es el producto ficticio; no afirmar como hecho real que una foto determine el deseo de otras personas ni establecer todavía la validez del sistema dentro de la novela.
+- Conservar literalmente la magnitud verbal del autor. Antes de usar cifras o cálculos, precisar la escala numérica de «billones» y distinguir patrimonio personal de valoración empresarial. No cambiarla silenciosamente.
+- El autor busca mostrar cómo alguien dedica su vida a un absurdo y obtiene con ello recursos para sobrevivir e incluso liderar.
+- Propone contrastarlo con el dirigente de la comunidad, que decide sobre vida y muerte de personas, animales y costumbres ancestrales, pero gana, vive y muere como los demás comuneros.
+- No se han fijado nombre, cargo, forma de elección, remuneración concreta ni una muerte en escena del dirigente.
+
+### Desarrollo editorial propuesto
+
+El empresario puede ser extremadamente disciplinado y competente en el problema al que dedicó su década. La desproporción está entre la tarea que lo enriqueció y el poder que eso le otorga sobre la supervivencia. No hacerlo incapaz para que funcione la sátira.
+
+El dirigente tiene responsabilidades con costes concretos y comparte las condiciones de quienes soportan sus decisiones. Puede equivocarse y necesitar información; no convertirlo en sabio infalible.
+
+Posible contrapunto: el empresario celebraba variaciones del índice de deseabilidad mientras el dirigente debía repartir agua entre personas y animales. La escena, el recurso escaso y los detalles son propuestas, no canon.
+
+La relación con el perro puede confrontar al empresario con una preferencia que no consigue comprar. Su antigua aplicación y el cansancio de la cocinera también podrían resonar entre sí sin que ella tenga que haber utilizado el producto ni conocido al fundador.
+
