@@ -54,7 +54,7 @@ Revelarlas mediante consecuencias y hábitos: alguien deja de llamar, alguien mi
 
 La pobreza, el trabajo sexual y la infancia no son por sí mismos una ruina moral. Tampoco todos necesitan haberse destruido antes del desastre: algunos pueden estar siendo dañados por otros o conservando algo valioso a gran coste. La catástrofe no actúa como castigo a pecadores.
 
-- **Traficante:** el autor considera insuficiente la propuesta de preguntarse quién lo ama y quién le teme. Pide representar gráficamente su crueldad y una pérdida de humanidad mucho más extrema. Desarrollar una pregunta interior a la altura de esa pérdida; aún no está elegida. Propuesta nueva de ChatGPT: «¿Queda algo que todavía sea incapaz de hacer?», como búsqueda de un límite que ha dejado de sentir, no como arrepentimiento confirmado. La violencia puede mostrarse de forma explícita y concreta, con víctimas que existan como personas y consecuencias. No asumir que cualquier afecto aislado lo redime.
+- **Traficante:** el autor considera insuficiente la propuesta de preguntarse quién lo ama y quién le teme. Pide representar gráficamente su crueldad y una pérdida de humanidad mucho más extrema. Pregunta propuesta por ChatGPT y aprobada expresamente después por el autor: «¿Queda algo que todavía sea incapaz de hacer?». Su desarrollo apunta a buscar un límite que ha dejado de sentir; no establece arrepentimiento. La violencia puede mostrarse de forma explícita y concreta, con víctimas que existan como personas y consecuencias. No asumir que cualquier afecto aislado lo redime.
 - **Niño:** posible fe en que existe una receta del éxito que cualquier adulto rico conoce. Pregunta al heredero cómo hizo su fortuna; recibe consejos sobre sacrificio. La escena puede ser cómica antes de que el lector advierta su crueldad. Su recorrido no tiene que terminar en corrupción o muerte.
 - **Heredero:** posible uso de la generosidad pública para confirmar la imagen que tiene de sí mismo y exigir gratitud privada. Darle auténticos actos generosos además de crueldad: la contradicción debe existir, no ser una fachada idéntica en todas las escenas.
 - **Cocinera:** el autor precisa que el desgaste más profundo nace de la repetición: los clientes cuentan las mismas historias y mentiras, piden las mismas fantasías y posiciones y la defraudan de las mismas maneras. El esfuerzo y los abusos sexuales no agotan su conflicto. Propuesta de ChatGPT: esa experiencia le deteriora la capacidad de esperar algo singular de un encuentro, incluso fuera del trabajo. Su percepción es la de este personaje, no una verdad objetiva sobre todos los hombres. Darle deseos y habilidades propios; abrir un restaurante sigue siendo solo una posibilidad anterior.
@@ -139,3 +139,20 @@ Posible contrapunto: el empresario celebraba variaciones del índice de deseabil
 
 La relación con el perro puede confrontar al empresario con una preferencia que no consigue comprar. Su antigua aplicación y el cansancio de la cocinera también podrían resonar entre sí sin que ella tenga que haber utilizado el producto ni conocido al fundador.
 
+## Aprobaciones expresas y referencia de voz — 14 de noviembre de 2026
+
+El autor respondió «amé todo lo que dijiste» al desarrollo anterior. Destacó explícitamente:
+
+- La pregunta del narco: **«¿Queda algo que todavía sea incapaz de hacer?»**. Queda aprobada como dirección del personaje.
+- La antítesis entre dirigente comunal y empresario y su desarrollo: competencia y sacrificio reales dedicados a la app frente a responsabilidades comunitarias sobre vidas, con condiciones materiales compartidas. Queda aprobada como dirección dramática; no fija todavía escenas, nombres o desenlaces.
+- El siguiente pasaje de la cocinera, que se conserva exactamente:
+
+> Él todavía estaba explicándole que nunca había hecho algo parecido cuando ella supo qué iba a decir de su matrimonio. Le dejó terminar. A veces cambiaban el orden.
+
+El autor dijo que el pasaje le dio rabia y lo hizo llorar y que tocó una fibra humana siendo aparentemente inofensivo. Es retroalimentación directa sobre esta muestra, no una predicción de respuesta de todos los lectores.
+
+### Lectura editorial de ChatGPT
+
+La frase «Le dejó terminar» permite percibir su conocimiento y su cansancio sin nombrarlos. El cierre sugiere una repetición vivida. Conservar este pasaje como referencia concreta de la voz buscada; no añadirle una explicación de lo que siente ni convertir la brevedad y el remate en una fórmula para toda la novela.
+
+La aprobación general orienta la continuación del trabajo. No convertir por ella todas las alternativas previas en sucesos canónicos ni fijar la identidad del cráneo.
