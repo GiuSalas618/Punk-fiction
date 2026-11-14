@@ -14,6 +14,35 @@ Estado: nueva línea de exploración propuesta por el autor. La referencia liter
 
 La demostración de la Atlántida y esa superinteligencia son elementos de la ficción propuesta. No se presentan como hechos históricos verificados del mundo real. La proximidad temporal entre el descubrimiento y la inundación no establece que la IA haya causado esta última.
 
+## La inundación y el vislumbre del futuro — nueva dirección del autor
+
+La línea del siglo XXI debe atravesar esta progresión:
+1. Politización del aumento del agua y acusaciones entre unos y otros.
+2. Desesperación e intentos de arreglar lo que está ocurriendo.
+3. Conciencia de lo inevitable.
+4. Dolor y destrucción total.
+5. En ese momento sucede algo que permite vislumbrar la sociedad del futuro.
+
+El autor describe esa sociedad futura como «primitiva». Queda por precisar el alcance material, tecnológico o cultural del término; no se establece una inferioridad mental o espiritual.
+
+El efecto de revelación que busca tiene como referencias la experiencia de Bastián al descubrir que la historia lo involucra en La historia interminable y el final de Cien años de soledad. Se trata de orientaciones para una estructura propia. No se ha establecido que en nuestra novela deba aparecer un libro, un manuscrito profético o una apelación directa al lector.
+
+### Cambios en el planteamiento temporal
+
+El encuentro entre épocas ya no se limita a un personaje futuro percibiendo el pasado: quienes viven la catástrofe también pueden alcanzar vislumbres del futuro. Siguen abiertos el mecanismo, la posibilidad de reconocimiento mutuo y cualquier capacidad de actuar sobre otro tiempo.
+
+La secuencia emocional puede desplegarse en varias escenas y personas; no implica que todos atraviesen las mismas fases al mismo tiempo. El alcance literal de «destrucción total» deberá armonizarse con las comunidades supervivientes ya previstas.
+
+### Posibilidades de desarrollo sugeridas por ChatGPT
+
+- Preparar la revelación con detalles que al principio parezcan accidentales y cobren otra lectura cuando confluyan las épocas.
+- Explorar que una mirada del pasado responda por primera vez a quien creía estar observando un recuerdo.
+- Hacer coincidir un lugar, un gesto o una frase en ambas épocas, manteniendo claro quién percibe qué.
+- Mostrar vida cotidiana del futuro dentro de un espacio que los personajes del pasado están viendo destruirse.
+- Mantener el duelo por las vidas concretas que se pierden; el vislumbre de una sociedad posterior no resuelve ni justifica esas pérdidas.
+- Conservar preguntas sobre si el vislumbre muestra un futuro fijo, una posibilidad o una relación temporal distinta.
+- El mecanismo del alga y el del vislumbre durante la inundación podrían estar relacionados, pero esa relación todavía no está decidida.
+
 ## Orientación literaria
 
 La referencia de Vargas Llosa propone explorar el entrecruzamiento de conversaciones, tiempos, memorias íntimas y vida política. La aplicación concreta a este libro debe desarrollar una voz y una estructura propias.
