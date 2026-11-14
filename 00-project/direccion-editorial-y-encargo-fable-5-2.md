@@ -68,12 +68,25 @@ La elección y aplicación de estos recursos es una recomendación editorial pro
 ### Tensiones que el autor debería resolver
 
 - Las referencias anteriores de este documento (Le Guin, Butler, Mandel, Ishiguro) son sobrias y contenidas; estas son cómicas, satíricas y a veces grotescas. Falta decidir la proporción entre ambos registros.
-- El narrador de Scorza es abiertamente irónico. La línea «el narrador no hace chistes», defendida por el asistente en el taller de voz, necesita revisarse: una opción es un narrador que no bromea pero relata lo absurdo con gravedad.
+- Resuelto por el autor (14 de noviembre de 2026): le gusta un narrador que relata lo absurdo con gravedad. Queda como orientación confirmada para la voz. Sigue abierto cuánta ironía explícita admite ese narrador.
 - Regla general del proyecto: estudiar el recurso, no reproducir escenas, frases ni personajes de estas obras.
 
 ### Datos por verificar
 
 - Pantaleón y las visitadoras, Mario Vargas Llosa (1973). Redoble por Rancas, Manuel Scorza (1970). Fechas y detalles de los episodios citados de memoria por el asistente; confirmar antes de usarlos en cualquier texto público.
+
+## Magia realista — concepto del autor
+
+### Establecido por el autor (14 de noviembre de 2026)
+
+- El autor formula así su intención: si el realismo mágico es un mundo real donde la magia parece parte de lo cotidiano, él quiere crear la «magia realista», un mundo mágico donde la realidad se funde con la fantasía.
+- Es una orientación general. El autor no ha fijado reglas de aplicación.
+
+### Lectura del asistente; no confirmada
+
+- El narrador da por sentado lo que para el lector es fantástico (respirar bajo el agua, la ciudad sumergida) y no se detiene a asombrarse.
+- El asombro queda para lo que el lector reconoce como real: una llave, un bolsillo, un paraguas, una discusión de bar sobre fútbol. Vista desde Mar de Janeiro, la realidad del siglo XXI es la leyenda.
+- El cruce con el bar del pasado (01-world/memorias-ruinas-alga-y-bar.md) sería el lugar donde esa fusión ocurre de forma más literal.
 
 ## Prioridades para buscar alcance comercial
 
