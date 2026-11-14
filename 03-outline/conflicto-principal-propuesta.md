@@ -1,6 +1,6 @@
 # Conflicto principal — propuesta de trama
 
-Estado: propuesta del asistente para revisión del autor. Los nombres, personajes, acontecimientos, muertes y desenlace que siguen son nuevos y no se incorporan al canon hasta su aceptación. La procedencia peruana del grupo visitante es una elección provisional entre las posibilidades planteadas por el autor.
+Estado: propuesta del asistente para revisión del autor. Los nombres, personajes, acontecimientos, muertes y desenlace que siguen son nuevos y no se incorporan al canon hasta su aceptación. La ubicación del refugio de origen está en las montañas del Perú; el grupo tiene raíces internacionales, según la corrección del autor. El aprendizaje mutuo entre comunidades es un requisito establecido; sus manifestaciones concretas en esta propuesta siguen abiertas.
 
 **Una mujer que ha dedicado su vida a enseñar que todos los seres forman parte de una misma existencia autoriza una expulsión para proteger a los suyos. Su hija muere intentando impedirla. Cuando la ciudad empieza a utilizar esa muerte para justificar más violencia, ella debe enfrentarse a la mentira que también la está ayudando a soportar su pérdida.**
 
@@ -12,7 +12,9 @@ Helena disfruta escuchándola. También empieza a guardar comida que nadie debe 
 
 Al atardecer suben juntas a contemplar el Cristo. Aunque haya cientos de personas, Nara encuentra siempre la mano de su madre bajo el agua.
 
-La crisis comienza con la llegada de supervivientes de las montañas del Perú. Son humanos terrestres. Necesitan aire, instalaciones que los habitantes anfibios apenas utilizan y cuidados continuos. Traen hambre, conocimientos útiles, miedo y sus propias diferencias. Algunos aceptan la hospitalidad; otros esconden provisiones porque ya han visto morir a quienes confiaron en que mañana también habría comida.
+La crisis comienza con la llegada de humanos terrestres desde sus refugios en las montañas del Perú. Proceden de comunidades fundadas por supervivientes de distintas partes del mundo que compraron tierras en el Valle Sagrado y las zonas altas cuando empezó a subir el mar. Entre los posibles fundadores había emprendedores de Silicon Valley, millonarios estadounidenses y chinos y magnates árabes del petróleo. La acción posterior corresponde a sus descendientes; quedan por definir los cambios culturales y económicos de esas generaciones. Necesitan aire, instalaciones que los habitantes anfibios apenas utilizan y cuidados continuos. Traen hambre, conocimientos útiles, miedo y sus propias diferencias. Algunos aceptan la hospitalidad; otros esconden provisiones porque ya han visto morir a quienes confiaron en que mañana también habría comida.
+
+La relación también necesita mostrar aportes de los recién llegados desde el principio. Como posibilidad para desarrollar, uno de ellos podría trabajar con habitantes del mar en el mantenimiento de refugios y organizar tareas que exigen continuidad. A su vez, aprendería a compartir sus conocimientos y a confiar decisiones importantes a personas ajenas a su círculo. Sus capacidades concretas no quedan fijadas por su ascendencia.
 
 Los primeros reciben ayuda. Después se sabe que vienen más.
 
@@ -52,6 +54,8 @@ La revelación decisiva es la participación de los propios guardianes y el efec
 
 El clímax ocurre cuando la ciudad prepara otra expulsión, esta vez invocando el nombre de Nara. Helena decide presentar los testimonios completos. Pierde su protección social, enfrenta la responsabilidad por su decisión y se coloca junto a las personas que van a ser expulsadas. Busca aliados para sostener los cuidados de todos, incluido su padre; esa tarea debe tener un coste concreto, trabajo y concesiones, sin una solución milagrosa a la escasez.
 
+La salida de la crisis deberá construirse mediante acciones y cambios de ambos grupos. Como desarrollo posible, los recién llegados se comprometen a compartir conocimientos y recursos que antes reservaban a los suyos, mientras habitantes del mar aprenden a sostener una organización duradera, proteger a quienes corren peligro y perseverar en un trabajo común. Los proyectos, costes y desacuerdos deben prepararse antes del clímax, para que esta cooperación sea una consecuencia del aprendizaje recíproco.
+
 Le gustaría poder sentir que esas personas le importan tanto como su hija. Todavía no puede.
 
 Aun así, se queda con ellas.
@@ -81,6 +85,9 @@ Se queda a su lado mientras cae el sol.
 ---
 
 ## Condiciones para desarrollar esta propuesta
+
+- Requisito del autor: ambas comunidades deben aprender y transformarse. La trama de Helena y Nara sigue siendo una opción, pendiente de aceptación; debe ampliar el papel activo de los visitantes y mostrar el aprendizaje recíproco durante todo el relato.
+- El origen montañés se refiere al lugar de refugio, no a una nacionalidad peruana común. Distinguir a los compradores originales de sus descendientes.
 
 - Dar a Nara deseos, errores, vínculos y decisiones propios, con suficiente presencia antes de su muerte. Evitar reducirla a un símbolo o a una lección para su madre.
 - Dar a los visitantes agencia, diversidad y aportes concretos; su humanidad no depende de que sean agradecidos o moralmente perfectos.
