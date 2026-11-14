@@ -81,6 +81,8 @@ La elección y aplicación de estos recursos es una recomendación editorial pro
 
 - El autor formula así su intención: si el realismo mágico es un mundo real donde la magia parece parte de lo cotidiano, él quiere crear la «magia realista», un mundo mágico donde la realidad se funde con la fantasía.
 - Es una orientación general. El autor no ha fijado reglas de aplicación.
+- A petición expresa del autor, consta que lo más natural para él es contar absurdos con gravedad y fundir la magia con el ultrarrealismo filosófico. Es un dato sobre su manera de expresarse, registrado porque él lo pidió; no convierte al protagonista ni a ningún personaje en retrato suyo.
+- «Ultrarrealismo filosófico» es un término del autor que todavía no ha definido. No darle contenido sin consultarlo.
 
 ### Lectura del asistente; no confirmada
 
