@@ -87,3 +87,7 @@ Las revelaciones necesitan pistas previas. No todos tienen que pronunciar o ente
 ## Siguiente entrega para Fable
 
 Incorporar esta dirección al taller real de siete rondas. Después proponer una escaleta breve que muestre el deseo y el cambio de cada capítulo, las pistas preparadas y las decisiones del final. Redactar luego la apertura de Río, manteniendo ligereza, calor, contradicción y personas reconocibles. No adelantar la caricia completa ni el cráneo a las primeras páginas.
+
+## Ampliación del autor: ruinas personales e información desigual
+
+Ver [Ruinas personales y personajes de Río](ruinas-personales-y-personajes-de-rio.md). El autor adopta el motivo de conocer a las personas antes de conocer sus ruinas y lo extiende al deterioro interior anterior al desastre. Exige mostrar la ventaja informativa y material del empresario frente a la incredulidad, las dudas y las bromas de la comunidad. Propone cuatro figuras de Río: traficante cruel, niño de once años que limpia carros y quiere ser millonario, heredero generoso fuera de casa y cruel con los suyos, y cocinera de clase media que complementa su salario con prostitución. Pide afinar con Fable la escalada, el perro y la sensibilidad del final; la búsqueda interna del ser futuro sigue abierta. El documento distingue esos aportes del autor de las propuestas editoriales nuevas.
