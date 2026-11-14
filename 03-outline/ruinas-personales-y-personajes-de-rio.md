@@ -30,6 +30,13 @@ Requiere mayor dramatismo y sensibilidad para la confluencia final, que identifi
 - Lo formula como preguntas: algún vacío la lleva a estar sola entre aquellas ruinas; ¿busca sus propias ruinas interiores?, ¿por qué?, ¿algo que le dé raíz?, ¿solidez?, ¿aquellas raíces que es imposible tener en el mar?
 - Estas preguntas preceden a la definición de individualidad y libertad recibida después en la sesión de ChatGPT y registrada abajo. Conservarlas como antecedentes, no como bloqueo a la nueva dirección.
 
+### Identidad difusa del cráneo — intuición del autor, en evaluación
+
+- El autor intuye que el cráneo puede presentarse con características del hombre del reloj sin que se sepa si es el traficante, el heredero o el emprendedor de Silicon Valley, y sin que se sepa si la cocinera tuvo una relación amorosa con él.
+- Busca que sea difuso como vivir debajo del mar: una sensación de estar mezclado e indefinido.
+- Lo plantea como pregunta (¿malograría la historia o le daría fuerza?). No es una decisión.
+- Lectura de Fable, no confirmada: puede dar fuerza si lo difuso es el quién y lo nítido es el qué. Dos mecanismos posibles: el reloj cambia de manos durante el libro, de modo que «el hombre del reloj» sea quien lo tenga al final; y, al entrar el agua, la narración deja de usar nombres propios, como ya ocurre en la escena dictada por el autor. Riesgo: que el lector lo lea como indecisión si las vidas anteriores no están trazadas con claridad.
+
 ## Cuatro personajes propuestos directamente por el autor
 
 1. **Un traficante cruel de una favela de Río.** Se inspira en la crueldad de bandas mexicanas para importar violencia y terror, incluyendo prácticas canibalísticas. Tratarlo como personaje y premisa ficticios; no atribuir esos actos a personas o bandas reales sin sustento. La favela contiene vidas distintas de la del traficante.
