@@ -41,7 +41,7 @@ En el futuro, un ser espiritualizado visita templos buscando comprender la sabid
 
 La escena del cráneo conecta presente, pasado y futuro cuando llega la gran catástrofe. El ser de los templos podría ser la mujer que acaricia el cráneo, pero el autor no lo ha fijado de modo inequívoco. El hallazgo y su plena conexión se reservan para el tramo culminante, con preparaciones anteriores.
 
-El autor desea que en ese momento se revelen las conexiones, los personajes comprendan sus lecciones y la experiencia sea muy emocional. Menciona lo que sintió con el final de Tieta como referencia de efecto; no precisa si novela o adaptación ni pide reproducir su argumento, escenas o voz. No atribuir a esa obra mecanismos específicos sin consultarla.
+El autor desea que en ese momento se revelen las conexiones, los personajes comprendan sus lecciones y la experiencia sea muy emocional. Menciona lo que sintió con el final de la novela Tieta como referencia de efecto; no pide reproducir su argumento, escenas o voz. No atribuir a esa obra mecanismos específicos sin consultarla.
 
 ## Propuesta de desarrollo de ChatGPT — pendiente de aprobación
 
