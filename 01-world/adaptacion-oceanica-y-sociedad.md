@@ -27,6 +27,25 @@ Esta orientación profundiza el fundamento de la propiedad fluida: su relación 
 - Representar la unidad mediante acciones y percepción cotidiana; la telepatía, una mente única o la desaparición de la personalidad no quedan establecidas por esta idea.
 - Investigar narrativamente cómo se vive esta comprensión al alimentarse, atravesar un conflicto o acompañar una muerte; no resolver estas cuestiones antes de que el autor las desarrolle.
 
+## La red y los ritmos de transformación
+
+### Imagen establecida por el autor
+
+Todos los seres son como hilos de una misma red. Esta imagen amplía la analogía de la mano y el ser: permite expresar la unidad entre vidas distintas. Queda abierta su expresión como metáfora, experiencia perceptiva o mecanismo fantástico; no asumir una red telepática literal.
+
+### Origen del drama propuesto por el autor
+
+La transformación de pensar y sentir es gradual. Algunos llegan antes que otros a la realización de esa unidad; la diferencia de ritmos puede generar polaridades y conflictos. Esta es una dirección central para explorar el drama de la novela. No dar por fijadas todavía facciones, personajes ni una trama concreta.
+
+### Posibilidades narrativas del asistente; no confirmadas
+
+- Una misma acción puede vivirse como cuidado o como invasión: por ejemplo, abrir un refugio a otros cuando alguien todavía lo siente como un espacio propio y seguro.
+- La transformación podría ser irregular dentro de una misma persona: compartir con facilidad ciertos bienes y sufrir intensamente ante una pérdida afectiva o material concreta.
+- La adaptación física y la comprensión de la unidad podrían avanzar a ritmos diferentes; no establecer una jerarquía moral automática según apariencia, edad o grado de adaptación corporal.
+- Quienes experimentan unidad también pueden tener dificultades para comprender el miedo de quienes aún necesitan límites. Explorar la paciencia, la escucha y las consecuencias de imponer una transformación.
+- Conservar la dimensión protectora de la estructura, la memoria y la responsabilidad junto con la capacidad integradora de la fluidez. Las polaridades arquetípicas pueden producir conflictos entre necesidades comprensibles.
+- Situar estas tensiones en relaciones cercanas y decisiones cotidianas antes de convertirlas en una división política del mundo.
+
 ## Posibilidad planteada por el autor; por desarrollar
 
 Los habitantes podrían entrar en distintos departamentos y permanecer allí durante horas o noches antes de desplazarse a otros. Mantener el carácter exploratorio de esta idea: aún no están definidos sus acuerdos de convivencia, sus excepciones ni su alcance entre comunidades.
