@@ -21,7 +21,7 @@ El autor sitúa la gran catástrofe casi al final del libro: muere gran parte de
 
 ## Nueva línea propuesta por el autor: el empresario, la familia y el perro
 
-- Un emprendedor de Silicon Valley emplea gran parte de su fortuna para adquirir enormes extensiones de montaña en Perú.
+- Un emprendedor de Silicon Valley emplea gran parte de su fortuna para adquirir enormes extensiones de montaña en Perú. El autor precisa después que la acumuló en diez años entregado a una app que medía el potencial de ser deseado por el sexo opuesto mediante fotografías diarias; dice «algunos billones de dólares», con escala numérica por precisar antes de usar cifras. Propone contrastarlo con el dirigente comunal, cuya responsabilidad afecta vidas y costumbres y que comparte las condiciones materiales de los comuneros.
 - Corrompe a funcionarios para conseguirlo. Empresario y funcionarios son personajes ficticios aún sin nombre.
 - Construye una mansión búnker que contrasta con las casas humildes de poblaciones arraigadas en la región desde hace milenios.
 - Contrata a trabajadores locales porque son más baratos que los robots de última tecnología y conocen mejor el terreno. Esto pertenece a la economía ficticia de la novela.
@@ -37,7 +37,7 @@ La existencia de compradores internacionales no elimina a los pobladores anterio
 
 Alternar uno o dos capítulos de la vida actual con uno de la vida futura, con flexibilidad para el ritmo.
 
-En el futuro, un ser espiritualizado visita templos buscando comprender la sabiduría del pasado. En ese recorrido encuentra el alga que le permite percepciones del pasado. Identidad, género, templo exacto, forma de exposición al alga y mecanismo siguen por definir.
+En el futuro, un ser espiritualizado visita templos buscando comprender la sabiduría del pasado. El autor define su búsqueda interior como individualidad y libertad dentro de la pertenencia: «¿Puedo sentirme parte de todos y seguir siendo yo?». El posible drama amoroso es secundario a esta pregunta. En ese recorrido encuentra el alga que le permite percepciones del pasado. Identidad, género, templo exacto, forma de exposición al alga y mecanismo siguen por definir.
 
 La escena del cráneo conecta presente, pasado y futuro cuando llega la gran catástrofe. El ser de los templos podría ser la mujer que acaricia el cráneo, pero el autor no lo ha fijado de modo inequívoco. El hallazgo y su plena conexión se reservan para el tramo culminante, con preparaciones anteriores.
 
@@ -90,4 +90,4 @@ Incorporar esta dirección al taller real de siete rondas. Después proponer una
 
 ## Ampliación del autor: ruinas personales e información desigual
 
-Ver [Ruinas personales y personajes de Río](ruinas-personales-y-personajes-de-rio.md). El autor adopta el motivo de conocer a las personas antes de conocer sus ruinas y lo extiende al deterioro interior anterior al desastre. Exige mostrar la ventaja informativa y material del empresario frente a la incredulidad, las dudas y las bromas de la comunidad. Propone cuatro figuras de Río: traficante cruel, niño de once años que limpia carros y quiere ser millonario, heredero generoso fuera de casa y cruel con los suyos, y cocinera de clase media que complementa su salario con prostitución. Pide afinar con Fable la escalada, el perro y la sensibilidad del final; la búsqueda interna del ser futuro sigue abierta. El documento distingue esos aportes del autor de las propuestas editoriales nuevas.
+Ver [Ruinas personales y personajes de Río](ruinas-personales-y-personajes-de-rio.md). El autor adopta el motivo de conocer a las personas antes de conocer sus ruinas y lo extiende al deterioro interior anterior al desastre. Exige mostrar la ventaja informativa y material del empresario frente a la incredulidad, las dudas y las bromas de la comunidad. Propone cuatro figuras de Río: traficante cruel, niño de once años que limpia carros y quiere ser millonario, heredero generoso fuera de casa y cruel con los suyos, y cocinera de clase media que complementa su salario con prostitución. Pide afinar con Fable la escalada, el perro y la sensibilidad del final; la búsqueda interna del ser futuro, precisada después, se centra en conservar individualidad y libertad dentro del amor y la pertenencia. El documento distingue esos aportes del autor de las propuestas editoriales nuevas.
