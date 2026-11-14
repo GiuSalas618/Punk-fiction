@@ -83,6 +83,30 @@ La sugerencia anterior del asistente sobre un apartamento heredado como propieda
 - Memoria y expresión: explorar canciones, sueños e imágenes como formas de transmitir experiencia.
 - Tensiones narrativas: pérdida de identidad propia, dificultad para retirarse del grupo, idealización de la unidad, evasión de responsabilidades o manipulación del sentimiento colectivo. La fluidez no obliga a una sociedad perfecta ni uniforme.
 
+## Comunidades de montaña y aprendizaje mutuo
+
+### Correcciones y requisitos establecidos por el autor
+
+- Los habitantes de las montañas mencionados para esta historia no deben caracterizarse como un grupo de nacionalidad peruana. Su refugio se encuentra en el Valle Sagrado y en zonas altas del Perú.
+- Su origen está en supervivientes de distintas partes del mundo que, cuando empezó a subir el mar, comenzaron a comprar tierras en esas zonas.
+- Entre los posibles compradores originales, el autor menciona emprendedores de Silicon Valley, millonarios estadounidenses y chinos y magnates árabes vinculados al petróleo. Son ejemplos de procedencia e historia económica, no listas cerradas ni descripciones del carácter de sus descendientes.
+- Respetar la cronología: si la acción sucede unos mil años después, distinguir a los compradores iniciales de las generaciones posteriores. No suponer que se trata de los mismos individuos ni que las identidades nacionales, fortunas o instituciones permanecieron intactas.
+- Debe existir aprendizaje mutuo entre los habitantes del mar y los de las montañas. Ambas comunidades aportan algo y ambas se transforman por el encuentro.
+
+### Direcciones sugeridas por el autor; todavía exploratorias
+
+- Los habitantes de las montañas podrían aprender a vivir de manera más unida, con un sentido de pertenencia más amplio y global, como los habitantes del mar.
+- Los habitantes del mar podrían aprender a ser más luchadores y terrenos, tomando algo de la disposición de los habitantes de las montañas.
+- El contacto y la vida en el entorno submarino podrían favorecer una integración gradual. El autor expresa dudas sobre la forma concreta: no fijar todavía el mecanismo ni las lecciones exactas.
+
+### Desarrollo sugerido por el asistente; no confirmado
+
+- Explorar para los habitantes de las montañas el tránsito de asegurar la supervivencia familiar mediante recursos propios a confiar, compartir conocimientos y asumir un cuidado más amplio.
+- Explorar para los habitantes del mar la constancia, la capacidad de sostener proyectos difíciles, los límites necesarios para proteger la vida y la determinación para actuar frente al daño.
+- Distribuir capacidades, contradicciones y cambios entre personas concretas. No convertir el lugar de origen en un temperamento único ni la adaptación corporal en una jerarquía moral.
+- Hacer que la solución del conflicto dependa de contribuciones y cambios de ambos grupos, desarrollados a lo largo de la historia.
+- Quedan abiertas las relaciones entre los compradores originales y las poblaciones que ya vivían en esas tierras; no suponer su desaparición ni fijar esas relaciones sin desarrollo del autor.
+
 ## Memoria de los mayores y visitantes — posibilidades propuestas por el autor
 
 - Los habitantes más viejos pueden recordar el pasado y reflexionar sobre los cambios. Algunos sienten tristeza; otros, ilusión. Mantener la diversidad de experiencias entre los mayores.
