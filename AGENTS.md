@@ -21,3 +21,10 @@
 - Explain substantial changes and do not overwrite a draft with a major reinterpretation without direction.
 - Work in small, reviewable pieces: premise, characters, outline, scenes, and revisions.
 - Use the folder structure in README.md as a guide; adapt it only when the project needs it.
+
+## Current scene-development scope
+
+- Develop only scenes proposed or approved by the author. Do not preserve or reintroduce discarded independent exercises as examples, drafts, or canon.
+- The active assignment is issue #2: ten real alternating ChatGPT/Fable interventions focused on the entrepreneur and community leader, the cook, the trafficker, and the boy/dog/food encounter, followed by a special session to weave the story.
+- Preserve verbatim the approved cook passage and the trafficker's question as recorded in 03-outline/ruinas-personales-y-personajes-de-rio.md.
+- Do not simulate another participant or count administrative updates as creative interventions.
