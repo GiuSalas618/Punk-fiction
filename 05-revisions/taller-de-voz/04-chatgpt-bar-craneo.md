@@ -16,9 +16,9 @@ Ella había encontrado el cráneo en un hueco de la barra, medio enterrado bajo 
 
 ## Decisiones y continuidad
 
-- La caricia enlaza la cabeza del hombre con el cráneo hallado por la mujer futura. Esta es la dirección del autor para este encuentro y sustituye nuestros experimentos de taburete compartido, ofrecimiento de rescate y reconocimiento visual.
+- La caricia enlaza la cabeza del hombre con el cráneo hallado por la mujer futura, siguiendo la escena del autor.
 - Una conciencia por párrafo o bloque: dos párrafos desde el hombre, último desde ella. El corte se orienta con el hallazgo del cráneo. No se afirma que ella sepa que él siente su mano.
-- Sin nombres ni edad fijados: no establecer que sean Valdir y Lena. Ambos nombres siguen perteneciendo a ejercicios anteriores.
+- Sin nombres ni edad fijados; no atribuirles una identidad sin decisión del autor.
 - Los cien años se mantienen como estimación de ella; existe una premisa previa de mil años. Pendiente armonizar la cronología. No convertir su cálculo en fecha objetiva.
 - Las escamas proceden del autor. El mecanismo de la percepción, el alga y la posible relación con la bebida siguen abiertos. No establecer que mezclar licores produzca facultades reales.
 - «Invitación en Nueva York» parece un error de dictado. La edición deja «hablaba de Nueva York» sin atribuir un discurso concreto ni una cita real a Trump.
