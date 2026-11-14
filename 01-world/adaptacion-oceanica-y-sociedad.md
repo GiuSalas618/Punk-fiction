@@ -12,6 +12,11 @@ Documento de trabajo de Punk Fiction. Basado exclusivamente en las ideas expresa
 - Los arquetipos piscianos y neptunianos deben orientar esa transformación mental y social.
 - La relación con la propiedad es más fluida, grupal y universal, con menor centralidad de la posesión individual. El autor contrapone esta orientación al modelo de propiedad que describe como capricorniano.
 
+### Confirmaciones del autor (14 de noviembre de 2026; registradas por Fable)
+
+- Todos los habitantes del mar tienen escamas en las manos. El resto del cuerpo no está definido.
+- Dentro del mundo nadie sabe con certeza cuánto tiempo ha pasado desde la inundación. La mujer que encuentra el cráneo calcula unos quinientos años y se pregunta si serían mil, dos mil o más. La premisa inicial de aproximadamente mil años queda como orientación del autor, no como dato que los personajes conozcan.
+
 ## Mar de Janeiro do Cristo — nombre e historia establecidos por el autor
 
 - Cuando el mar comenzó a inundar Río de Janeiro, los habitantes cariocas bromeaban diciendo que ahora vivían en «Mar de Janeiro».

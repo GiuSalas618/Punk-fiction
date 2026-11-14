@@ -76,7 +76,7 @@ Las revelaciones necesitan pistas previas. No todos tienen que pronunciar o ente
 
 ## Continuidad abierta
 
-- La premisa inicial abarca aproximadamente mil años; la mujer del cráneo imagina cien. No fijar todavía la duración.
+- Resuelto por el autor (registrado por Fable): la mujer del cráneo calcula unos quinientos años y se pregunta si serían mil, dos mil o más; nadie lo sabe con certeza. Ver 01-world/adaptacion-oceanica-y-sociedad.md.
 - La subida gradual y una gran catástrofe final necesitan una cronología interna y un mecanismo ficticio coherentes. No presentar una inundación planetaria instantánea como predicción científica actual.
 - La historia del nombre Mar de Janeiro y su oficialización décadas después deben conservar un lugar en el intervalo histórico; no comprimir esas décadas sin decisión.
 - No fijar todavía qué vínculo tiene el empresario con los futuros visitantes de montaña.

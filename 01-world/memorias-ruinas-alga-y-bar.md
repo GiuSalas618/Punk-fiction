@@ -43,6 +43,12 @@ La secuencia emocional puede desplegarse en varias escenas y personas; no implic
 - Conservar preguntas sobre si el vislumbre muestra un futuro fijo, una posibilidad o una relación temporal distinta.
 - El mecanismo del alga y el del vislumbre durante la inundación podrían estar relacionados, pero esa relación todavía no está decidida.
 
+## Confirmaciones del autor (14 de noviembre de 2026; registradas por Fable)
+
+- Las conversaciones de bar sobre fútbol, política e inteligencia artificial van antes de la catástrofe, con el bar todavía seco.
+- Lecturas del dictado de la escena del bar y el cráneo, confirmadas: «se han rendido ante el inminente desastre» y «la inundación en Nueva York».
+- Sigue sin respuesta del autor si «aprendan» en «Antes que todos aprendan a vivir por dentro» es deliberado.
+
 ## Orientación literaria
 
 La referencia de Vargas Llosa propone explorar el entrecruzamiento de conversaciones, tiempos, memorias íntimas y vida política. La aplicación concreta a este libro debe desarrollar una voz y una estructura propias.
