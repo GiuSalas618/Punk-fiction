@@ -156,3 +156,7 @@ El autor dijo que el pasaje le dio rabia y lo hizo llorar y que tocó una fibra 
 La frase «Le dejó terminar» permite percibir su conocimiento y su cansancio sin nombrarlos. El cierre sugiere una repetición vivida. Conservar este pasaje como referencia concreta de la voz buscada; no añadirle una explicación de lo que siente ni convertir la brevedad y el remate en una fórmula para toda la novela.
 
 La aprobación general orienta la continuación del trabajo. No convertir por ella todas las alternativas previas en sucesos canónicos ni fijar la identidad del cráneo.
+
+## Narco: momento de la pregunta — precisión posterior del autor
+
+La secuencia de actos debe conducir a «¿Queda algo que todavía sea incapaz de hacer?» con curiosidad morbosa y un sentido de omnipoder, mientras escucha El Todopoderoso de Héctor Lavoe, que un jefe criminal mexicano —denominado «jefe de jefes» por el autor— le hizo escuchar. No es una pregunta de arrepentimiento. Desarrollar ese jefe como personaje ficticio sin asignarle identidad real. La referencia musical se integra sin reproducir la letra. El nuevo ciclo desarrolla esta secuencia y las escenas del empresario, ambos líderes, la cocinera y el niño/perro/comida: https://github.com/GiuSalas618/Punk-fiction/issues/2
