@@ -50,6 +50,31 @@ Fuentes consultadas el 14 de noviembre de 2026:
 
 La elección y aplicación de estos recursos es una recomendación editorial propia; no es una receta de ventas atribuida a las fuentes.
 
+## Personajes memorables — preferencia del autor
+
+### Establecido por el autor (14 de noviembre de 2026)
+
+- El autor quiere personajes memorables. Como ejemplos de lo que busca menciona el cine de los hermanos Coen, a Pantaleón Pantoja y la «celebérrima moneda» de Redoble por Rancas.
+- Son ejemplos del efecto buscado. El autor no ha precisado qué rasgos de cada referencia le interesan ni ha pedido imitar ninguna.
+
+### Lectura del asistente; no confirmada
+
+- Lo que las tres referencias parecen compartir: un personaje se recuerda por una lógica propia que aplica con total seriedad en una situación donde no encaja, y por un objeto o una tarea que lo concentra. El narrador cuenta lo absurdo con la cara seria.
+- Pantaleón Pantoja: la virtud (el celo, el método) llevada hasta volverse cómica y después peligrosa para quien la tiene.
+- La moneda: un personaje definido por cómo se comporta todo un pueblo alrededor de un objeto, antes que por su descripción.
+- Los Coen: habla inconfundible, códigos privados defendidos con rigidez, secundarios con un solo rasgo que no se olvida.
+- Aplicación posible: dar a cada personaje principal una regla que no negocia, una manera de hablar que se reconozca sin acotación y un objeto o tarea donde esa regla se vea. Vale para el mar y para la montaña.
+
+### Tensiones que el autor debería resolver
+
+- Las referencias anteriores de este documento (Le Guin, Butler, Mandel, Ishiguro) son sobrias y contenidas; estas son cómicas, satíricas y a veces grotescas. Falta decidir la proporción entre ambos registros.
+- El narrador de Scorza es abiertamente irónico. La línea «el narrador no hace chistes», defendida por el asistente en el taller de voz, necesita revisarse: una opción es un narrador que no bromea pero relata lo absurdo con gravedad.
+- Regla general del proyecto: estudiar el recurso, no reproducir escenas, frases ni personajes de estas obras.
+
+### Datos por verificar
+
+- Pantaleón y las visitadoras, Mario Vargas Llosa (1973). Redoble por Rancas, Manuel Scorza (1970). Fechas y detalles de los episodios citados de memoria por el asistente; confirmar antes de usarlos en cualquier texto público.
+
 ## Prioridades para buscar alcance comercial
 
 1. Abrir con una escena que una asombro visual, un deseo concreto y una fricción humana. Una opción: el ascenso al Cristo interrumpido por la llegada de un visitante; no queda establecido como inicio definitivo.
