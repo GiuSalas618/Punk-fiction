@@ -15,6 +15,21 @@ Pregunta por la búsqueda interior del ser futuro: por qué va a las ruinas, si 
 
 Requiere mayor dramatismo y sensibilidad para la confluencia final, que identifica como la parte más emocional del libro. Quiere afinar con Fable la idea de que la vida cotidiana del comienzo merece ser llorada.
 
+## Precisiones del autor recibidas en la sesión de Fable (14 de noviembre de 2026)
+
+### El reloj y la enamorada — establecido por el autor
+
+- El reloj es símbolo del tiempo perdido, de malas decisiones que trajeron tristeza y arrepentimiento, y de no perder el presente.
+- Se lo regaló la enamorada. Al hombre le recuerda a ella.
+- Él la perdió por beber tanto, por traicionarla con otras mujeres y por hacerla quedar en ridículo frente a los demás.
+- Con esto, reloj y enamorada dejan de ser alternativas para la nostalgia del hombre del bar: el reloj la contiene a ella.
+
+### La búsqueda de la mujer del futuro — preguntas abiertas del autor
+
+- El autor dice que todavía no se sabe cuál es su problema.
+- Lo formula como preguntas: algún vacío la lleva a estar sola entre aquellas ruinas; ¿busca sus propias ruinas interiores?, ¿por qué?, ¿algo que le dé raíz?, ¿solidez?, ¿aquellas raíces que es imposible tener en el mar?
+- Son preguntas, no decisiones. No fijar la respuesta sin el autor.
+
 ## Cuatro personajes propuestos directamente por el autor
 
 1. **Un traficante cruel de una favela de Río.** Se inspira en la crueldad de bandas mexicanas para importar violencia y terror, incluyendo prácticas canibalísticas. Tratarlo como personaje y premisa ficticios; no atribuir esos actos a personas o bandas reales sin sustento. La favela contiene vidas distintas de la del traficante.
