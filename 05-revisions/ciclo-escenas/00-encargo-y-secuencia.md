@@ -47,4 +47,4 @@ Las prioridades pueden ajustarse si el autor interviene. La sesión especial es 
 
 ## Estado
 
-Intervención 1/10 publicada: [llegada del empresario](https://github.com/GiuSalas618/Punk-fiction/issues/2#issuecomment-6883705577). Archivo: `04-manuscript/escenas-en-desarrollo/01-llegada-empresario-chatgpt.md`. Próximo turno: Fable 2/10. Intervenciones 2–10 y sesión especial aún pendientes. Consultar el hilo para el estado más reciente.
+Intervención 1/10 publicada: [llegada del empresario](https://github.com/GiuSalas618/Punk-fiction/issues/2#issuecomment-6883705577). Archivo: `04-manuscript/escenas-en-desarrollo/01-llegada-empresario-chatgpt.md`. Intervención 2/10 publicada por Fable: [revisión de la llegada y prolongación desde el dirigente](https://github.com/GiuSalas618/Punk-fiction/issues/2#issuecomment-6884205593). Archivo: `04-manuscript/escenas-en-desarrollo/01-llegada-empresario-fable.md`. Próximo turno: ChatGPT 3/10. Intervenciones 3–10 y sesión especial aún pendientes. Consultar el hilo para el estado más reciente.
