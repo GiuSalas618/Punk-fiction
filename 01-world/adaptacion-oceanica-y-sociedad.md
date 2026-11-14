@@ -12,6 +12,21 @@ Documento de trabajo de Punk Fiction. Basado exclusivamente en las ideas expresa
 - Los arquetipos piscianos y neptunianos deben orientar esa transformación mental y social.
 - La relación con la propiedad es más fluida, grupal y universal, con menor centralidad de la posesión individual. El autor contrapone esta orientación al modelo de propiedad que describe como capricorniano.
 
+## Amor universal y sentido del ser — orientación confirmada
+
+La especie comienza a comprender y experimentar el amor universal como un sentimiento de unidad entre todos los seres. Esta comprensión se desarrolla gradualmente junto con su adaptación al mundo oceánico.
+
+La analogía propuesta por el autor es la mano sentida como extensión del propio ser: esa relación ayuda a imaginar cómo perciben a los demás seres. La unidad abarca la vida más allá de la comunidad humana.
+
+Esta orientación profundiza el fundamento de la propiedad fluida: su relación con el mundo nace de una experiencia de pertenencia a una existencia compartida. Desarrollar sus consecuencias concretas sin reducir el amor universal a un reglamento de reparto de bienes.
+
+### Desarrollo sugerido por el asistente; aún abierto
+
+- Mostrar el cuidado espontáneo de otro ser como algo tan inmediato como atender una mano herida.
+- Explorar cómo se amplía el sentido de sí mismo y cómo se conservan las diferencias de experiencia entre individuos.
+- Representar la unidad mediante acciones y percepción cotidiana; la telepatía, una mente única o la desaparición de la personalidad no quedan establecidas por esta idea.
+- Investigar narrativamente cómo se vive esta comprensión al alimentarse, atravesar un conflicto o acompañar una muerte; no resolver estas cuestiones antes de que el autor las desarrolle.
+
 ## Posibilidad planteada por el autor; por desarrollar
 
 Los habitantes podrían entrar en distintos departamentos y permanecer allí durante horas o noches antes de desplazarse a otros. Mantener el carácter exploratorio de esta idea: aún no están definidos sus acuerdos de convivencia, sus excepciones ni su alcance entre comunidades.
